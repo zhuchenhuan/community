@@ -1,4 +1,4 @@
-package com.ahua.community.community;
+package life.ahua.community;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
